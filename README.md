@@ -1,6 +1,6 @@
-## "Exploring Diverse Data Projects: Churn Prediction, Heart Disease Detection, and Music Recommendations"
+## Exploring Diverse Data Projects: Churn Prediction, Heart Disease Detection, and Music Recommendations
 
-# Three distinct projects encompassing customer churn prediction, early heart disease detection, and personalized music recommendations, underscore the power of data-driven insights across domains.
+Three distinct projects encompassing customer churn prediction, early heart disease detection, and personalized music recommendations, underscore the power of data-driven insights across domains.
 
 # Churn Prediction:
 Predicting customer churn using machine learning models based on customer data like credit score, age, tenure, and more. The aim is to determine whether a customer will leave or stay with the company. Different models will be explored to identify factors that contribute to customer attrition.
