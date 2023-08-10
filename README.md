@@ -1,5 +1,7 @@
 ## Exploring Diverse Data Projects: Churn Prediction, Heart Disease Detection, and Music Recommendations
 
+
+
 Three distinct projects encompassing customer churn prediction, early heart disease detection, and personalized music recommendations, underscore the power of data-driven insights across domains.
 
 # Churn Prediction:
